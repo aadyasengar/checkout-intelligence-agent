@@ -481,8 +481,8 @@ Team Seven Up — to be resolved before production deployment.
 
 | Date | Entry | Change |
 |------|-------|--------|
-| 2025 | DEC-001 through DEC-014 | Initial decision log created |
-| 2025 | DEC-015 | Merge conflict documented as open issue |
+| 2026 | DEC-001 through DEC-014 | Initial decision log created |
+| 2026 | DEC-015 | Merge conflict documented as open issue |
 
 ---
 
